@@ -8,6 +8,7 @@ public class MyClass {
 		System.out.println("This is ??? version.");
 		MyHello myHello = new MyHello();
 		myHello.sayHello();
+		System.out.println("v2.0");
 	}
 	
 }
